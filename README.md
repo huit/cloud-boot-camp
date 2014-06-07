@@ -30,7 +30,7 @@ So ... time to switch gears.
 
 Here is a list of tools you'll want to install and have available as we move forward. Most of these work better on Mac or Linux, since over the past few years these have become the preffered OS for devops engineering:
 
-*Basic Tools*
+### Basic Tools
 
 * [Homebrew for Mac: Linux/Unix tools](http://brew.sh)
 * From [Git](http://gitscm.org) or using `brew install git`
@@ -39,17 +39,17 @@ Here is a list of tools you'll want to install and have available as we move for
  
 On the Mac, Homebrew let's this installation happen quickly & easily. After installing homebrew, make sure that `/usr/local/bin` is the first in your path, then `brew install ...` the rest. Takes 3-5 minutes.
 
-*DevOps Tooling*
+### DevOps Tooling
 
 * [Vagrant](http://vagrantup.com/) ... get the latest (>= v1.6)
 * [Virtual Box](https://www.virtualbox.org)
 
-*AWS Tools*
+### AWS Tools
 
 * (AWS commandline tools)[http://aws.amazon.com/cli/] These are best installed from the command-line using `pip install awscli`
 * (Elastic Wolf)[https://aws.amazon.com/developertools/9313598265692691] GUI for visibility into your AWS resources.
 
-*Extras*
+### Extras
 
 If you want to hang with the cool kids, take a look at these tools as well:
 
@@ -95,5 +95,5 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 * (http://12factor.net)
 * [The Twelve Factor App (Presentation)](http://prezi.com/8uldpq91vm4e/?utm_campaign=share&utm_medium=copy)
-- 
+
 
