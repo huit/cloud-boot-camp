@@ -1,4 +1,35 @@
-cloud-boot-camp
+Cloud Boot Camp
 ===============
 
-Centralized documentation, planning, and coordination on Cloud Boot Camp: rapid deep-diving to support application in AWS 
+*Cloud Boot Camp* is a series of training, exercises, and 
+projects for HUIT to bring a team of admins and engineers up to speed and ready to
+support a large, highly visible online Harvard application.  
+This repository holds the centralized documentation, planning, and coordination for
+Cloud Boot Camp.
+
+Most of the content for this repository will be captured in the wiki. It will also serve
+as an "index" to other repos -- the digital artifacts of this project-based training -- that
+will be captured here in th HUIT GitHub org. By capturing this
+
+# Purpose
+
+# Background Information
+
+# Project Exercises
+
+Each of these projects are intended to mimic or augment the application, release tooling, or supporting technology around the application (such as logging. monitoring, instrumentation, and resiliency testing). We break each aspect into self-contained components, define a useful exercise -- simplified in complexity but still transferable to the real world -- around each area. We'll then break into teams and implement.
+
+The artifacts of this work -- all code, data, etc. -- will be captured into git repos within the GitHub org, along with accompanying documentation. 
+
+### The Exercises
+
+- Deploying a Fault Tolerant Three-Tier LAMP-based Service
+- Downtime-Free Database Upgrades in AWS
+- Automated Continuous Integration: From GitHub Commit to Running Test Service
+- Building a Control Plane for a Dynamic Site
+- Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site
+
+
+# Resources
+
+
