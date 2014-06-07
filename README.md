@@ -15,12 +15,21 @@ in the future.
 
 # Purpose
 
+Our goals with this initiative and set of exercises are:
+
+* Develop an ability within HUIT to support a set of high-profile sites in AWS by July 26
+* Create a cross-discpline team that can handle support concerns at varying levels in the "stack," and of varying complexity
+* Engineer supporting services and refine current technology to reduce to a minimum the hands-on support needed for production sites
+* Develop a model for supporting production sites in the cloud that will inform ongoing planning around CLoud & Devops in HUIT
+
+Not only do we want to "catch up," at the end we want to lead the way!
+
 # Background Information
 
 This effort represents not only the support of a new platform, but also a new approach to IT. So to properly support 
-the platform, you will need to change gears in the way you approach system and software. 
+the platform, you will need to change gears in the way you approach systems and software. 
 
-Many think of the cloud as a new type of service born of the need to reduce power for storage and servers, and to reduce cost. While that plays into it, the primary reason that cloud was developed is to enable automation & agility at the infrastructure level,  the sort of things that a DevOps approach looks for. In fact, it more useful to think of cloud as the logiccal outcome to the pressures applied by DevOps. 
+Many think of the cloud as a new type of service born of the need to reduce power for storage and servers, and to reduce cost. While that plays into it, the primary reason that cloud was developed is to enable automation & agility at the infrastructure level, the sort of things that a DevOps approach looks for. In fact, it more useful to think of cloud as the logical outcome to the pressures applied by DevOps. I.e. *Cloud is a set of technologies that are built to implement DevOps Processes.* 
 
 Given that, the natural way to use the cloud – and to support apps in the cloud – is with DevOps approaches and toolsets. 
 
@@ -28,7 +37,7 @@ So ... time to switch gears.
 
 ## Tools
 
-Here is a list of tools you'll want to install and have available as we move forward. Most of these work better on Mac or Linux, since over the past few years these have become the preffered OS for devops engineering:
+Here is a list of tools you'll want to install and have available as we move forward. (This is not exhaustive, and perhaps not even suffucient. Feel free to contribute). Most of these work better on Mac or Linux, since over the past few years they have become the prefered OS's for devops engineering.
 
 ### Basic Tools
 
