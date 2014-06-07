@@ -47,6 +47,8 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 ### Supporting Services
 
+* [Netflix Open Source Software](http://github.com/netflix/)
+
 
 ### Standards
 
