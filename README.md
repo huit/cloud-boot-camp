@@ -37,7 +37,8 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 ### AWS
 
 * [Intro to Amazon EC2 and VPCs](http://prezi.com/fe-v0v8rsldc/intro-to-amazon-ec2-with-simple-vpcs/)
-- 
+* [Amazon Console](http://console.aws.amazon.com)
+
 
 ### Bootstrapping
 
