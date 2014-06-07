@@ -40,7 +40,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 * [Amazon Console](http://console.aws.amazon.com)
 
 
-### DEployment
+### Deployment
 
 * [Nepho](http://github.com/huit/nepho)
 
