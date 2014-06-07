@@ -17,6 +17,47 @@ in the future.
 
 # Background Information
 
+This effort represents not only the support of a new platform, but also a new approach to IT. So to properly support 
+the platform, you will need to change gears in the way you approach system and software. 
+
+Many think of the cloud as a new type of service born of the need to reduce power for storage and servers, and to reduce cost. While that plays into it, the primary reason that cloud was developed is to enable automation & agility at the infrastructure level,  the sort of things that a DevOps approach looks for. In fact, it more useful to think of cloud as the logiccal outcome to the pressures applied by DevOps. 
+
+Given that, the natural way to use the cloud – and to support apps in the cloud – is with DevOps approaches and toolsets. 
+
+So ... time to switch gears.
+
+## Tools
+
+Here is a list of tools you'll want to install and have available as we move forward. Most of these work better on Mac or Linux, since over the past few years these have become the preffered OS for devops engineering:
+
+*Basic Tools*
+
+* [Homebrew for Mac: Linux/Unix tools](http://brew.sh)
+* From [Git](http://gitscm.org) or using `brew install git`
+* SSH
+* [Python](http://python.org) This is the runtime that the AWS tools are written in
+ 
+On the Mac, Homebrew let's this installation happen quickly & easily. After installing homebrew, make sure that `/usr/local/bin` is the first in your path, then `brew install ...` the rest. Takes 3-5 minutes.
+
+*DevOps Tooling*
+
+* [Vagrant](http://vagrantup.com/) ... get the latest (>= v1.6)
+* [Virtual Box](https://www.virtualbox.org)
+
+*AWS Tools*
+
+* (AWS commandline tools)[http://aws.amazon.com/cli/] These are best installed from the command-line using `pip install awscli`
+* (Elastic Wolf)[https://aws.amazon.com/developertools/9313598265692691] GUI for visibility into your AWS resources.
+
+*Extras*
+
+If you want to hang with the cool kids, take a look at these tools as well:
+
+* [MOSH](http://mosh.mit.edu) The MObile SHell, let's you reconnect to SSH sessions without interruption. Use (brew to install)
+* [SublimeText](http://www.sublimetext.com)
+* [Docker](http://docker.io) The next big thing in app deployment (built-in with Vagrant >= v1.6).
+
+ 
 # Project Exercises
 
 Each of these projects are intended to mimic or augment the application, release tooling, or supporting technology around the application (such as logging. monitoring, instrumentation, and resiliency testing). We break each aspect into self-contained components, define a useful exercise -- simplified in complexity but still transferable to the real world -- around each area. We'll then break into teams and implement.
