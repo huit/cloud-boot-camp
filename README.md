@@ -9,7 +9,9 @@ Cloud Boot Camp.
 
 Most of the content for this repository will be captured in the wiki. It will also serve
 as an "index" to other repos -- the digital artifacts of this project-based training -- that
-will be captured here in th HUIT GitHub org. By capturing this
+will be captured here in th HUIT GitHub org. By capturing this in a central place, it'll be not 
+only straightforward to support the platform, but will bootstrap other support efforts and resources
+in the future.
 
 # Purpose
 
