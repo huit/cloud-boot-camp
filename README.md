@@ -35,7 +35,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 # Resources
 
 ### AWS
-- [Intro to Amazon EC2 and VPCs](http://prezi.com/fe-v0v8rsldc/intro-to-amazon-ec2-with-simple-vpcs/)
+* [Intro to Amazon EC2 and VPCs](http://prezi.com/fe-v0v8rsldc/intro-to-amazon-ec2-with-simple-vpcs/)
 - 
 
 ### Bootstrapping
@@ -45,7 +45,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 ### Standards
 
-- (http://12factor.net)
-- [The Twelve Factor App (Presentation)](http://prezi.com/8uldpq91vm4e/?utm_campaign=share&utm_medium=copy)
+* (http://12factor.net)
+* [The Twelve Factor App (Presentation)](http://prezi.com/8uldpq91vm4e/?utm_campaign=share&utm_medium=copy)
 - 
 
