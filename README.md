@@ -58,6 +58,12 @@ On the Mac, Homebrew let's this installation happen quickly & easily. After inst
 * [AWS commandline tools](http://aws.amazon.com/cli/) These are best installed from the command-line using `pip install awscli`
 * [Elastic Wolf](https://aws.amazon.com/developertools/9313598265692691) GUI for visibility into your AWS resources.
 
+### Collaboration Tools
+
+* [HipChat](http://chat.huit.harvard.edu) We'll use this for communciation and tracking changes to code and builds in real time.
+* Mailing List: TBD
+
+
 ### Extras
 
 If you want to hang with the cool kids, take a look at these tools as well:
