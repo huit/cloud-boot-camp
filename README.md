@@ -55,8 +55,8 @@ On the Mac, Homebrew let's this installation happen quickly & easily. After inst
 
 ### AWS Tools
 
-* (AWS commandline tools)[http://aws.amazon.com/cli/] These are best installed from the command-line using `pip install awscli`
-* (Elastic Wolf)[https://aws.amazon.com/developertools/9313598265692691] GUI for visibility into your AWS resources.
+* [AWS commandline tools](http://aws.amazon.com/cli/) These are best installed from the command-line using `pip install awscli`
+* [Elastic Wolf](https://aws.amazon.com/developertools/9313598265692691) GUI for visibility into your AWS resources.
 
 ### Extras
 
