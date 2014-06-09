@@ -77,6 +77,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 - Deploying a Fault Tolerant Three-Tier LAMP-based Service
 - Downtime-Free Database Upgrades in AWS
+- Front a website with CloudFront CDN
 - Automated Continuous Integration: From GitHub Commit to Running Test Service
 - Building a Control Plane for a Dynamic Site
 - Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site
