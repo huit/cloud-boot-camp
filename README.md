@@ -81,7 +81,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 ### The Exercises
 
-- (Deploying a Fault Tolerant Three-Tier LAMP-based Service)
+- [Deploying a Fault Tolerant Three-Tier LAMP-based Service](wiki/Deploying a Fault Tolerant Three-Tier LAMP-based Service)
 - [[Downtime-Free Database Upgrades in AWS]]
 - [[Front a website with CloudFront CDN]]
 - [[Automated Continuous Integration: From GitHub Commit to Running Test Service]]
