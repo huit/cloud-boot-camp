@@ -20,6 +20,7 @@ Our goals with this initiative and set of exercises are:
 * Develop an ability within HUIT to support a set of high-profile sites in AWS by July 26
 * Create a cross-discpline team that can handle support concerns at varying levels in the "stack," and of varying complexity
 * Engineer supporting services and refine current technology to reduce to a minimum the hands-on support needed for production sites
+* Collaborately develop a support "playbook" for the sites in question
 * Develop a model for supporting production sites in the cloud that will inform ongoing planning around CLoud & Devops in HUIT
 
 Not only do we want to "catch up," at the end we want to lead the way!
@@ -81,10 +82,10 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 
 ### The Exercises
 
-- [Deploying a Fault Tolerant LAMP-based Service](/wiki/Deploying-a-Fault-Tolerant-LAMP-based-Service)
-- [Downtime-Free Database Upgrades in AWS](wiki/Downtime-Free-Database-Upgrades-in-AWS)
-- [[Front a website with CloudFront CDN]]
-- [[Automated Continuous Integration: From GitHub Commit to Running Test Service]]
+- [Deploying a Fault Tolerant LAMP-based Service](https://github.com/huit/cloud-boot-camp/wiki/Deploying-a-Fault-Tolerant-LAMP-based-Service)
+- [Downtime-Free Database Upgrades in AWS](https://github.com/huit/cloud-boot-camp/wiki/Downtime-Free-Database-Upgrades-in-AWS)
+- [Front a Website with CloudFront CDN](https://github.com/huit/cloud-boot-camp/wiki/Front-a-Website-with-CloudFront-CDN)
+- [Automated Continuous Integration: From GitHub Commit to Running Test Service](https://github.com/huit/cloud-boot-camp/wiki/Automated-Continuous-Integration)
 - [[Building a Control Plane for a Dynamic Site]]
 - [[Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site]]
 
