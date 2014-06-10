@@ -88,6 +88,7 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 - [Automated Continuous Integration: From GitHub Commit to Running Test Service](https://github.com/huit/cloud-boot-camp/wiki/Automated-Continuous-Integration)
 - [[Building a Control Plane for a Dynamic Site]]
 - [[Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site]]
+- [[Continual Resiliency Testing]]
 
 
 # Resources
