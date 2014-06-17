@@ -115,4 +115,3 @@ _We will need more here ... please contribute!_
 * http://12factor.net
 * [The Twelve Factor App (Presentation)](http://prezi.com/8uldpq91vm4e/?utm_campaign=share&utm_medium=copy)
 
-FOO
