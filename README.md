@@ -13,6 +13,18 @@ will be captured here in th HUIT GitHub org. By capturing this in a central plac
 only straightforward to support the platform, but will bootstrap other support efforts and resources
 in the future.
 
+### Quick-Links
+
+The projects this work is targeting are:
+
+- [Deploying a Fault Tolerant LAMP-based Service](https://github.com/huit/cloud-boot-camp/wiki/Deploying-a-Fault-Tolerant-LAMP-based-Service)
+- [Downtime-Free Database Upgrades in AWS](https://github.com/huit/cloud-boot-camp/wiki/Downtime-Free-Database-Upgrades-in-AWS)
+- [Front a Website with CloudFront CDN](https://github.com/huit/cloud-boot-camp/wiki/Front-a-Website-with-CloudFront-CDN)
+- [Automated Continuous Integration: From GitHub Commit to Running Test Service](https://github.com/huit/cloud-boot-camp/wiki/Automated-Continuous-Integration)
+- [Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site](https://github.com/huit/cloud-boot-camp/wiki/Comprehensive-Monitoring%2C-Instrumentation-and-Logging-for-a-Dynamic-Site)
+- [Continual Resiliency Testing](https://github.com/huit/cloud-boot-camp/wiki/Continual-Resiliency-Testing)
+
+
 # Purpose
 
 Our goals with this initiative and set of exercises are:
