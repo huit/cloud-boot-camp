@@ -98,7 +98,7 @@ _We will need more here ... please contribute!_
 
 * [Intro to Amazon EC2 and VPCs](http://prezi.com/fe-v0v8rsldc/intro-to-amazon-ec2-with-simple-vpcs/)
 * [Amazon Console](http://console.aws.amazon.com)
-
+* [CloudFormation Template Examples](http://aws.amazon.com/cloudformation/aws-cloudformation-templates/)
 
 ### Deployment
 
@@ -115,4 +115,3 @@ _We will need more here ... please contribute!_
 * http://12factor.net
 * [The Twelve Factor App (Presentation)](http://prezi.com/8uldpq91vm4e/?utm_campaign=share&utm_medium=copy)
 
-Blah
