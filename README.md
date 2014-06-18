@@ -86,10 +86,10 @@ The artifacts of this work -- all code, data, etc. -- will be captured into git 
 - [Downtime-Free Database Upgrades in AWS](https://github.com/huit/cloud-boot-camp/wiki/Downtime-Free-Database-Upgrades-in-AWS)
 - [Front a Website with CloudFront CDN](https://github.com/huit/cloud-boot-camp/wiki/Front-a-Website-with-CloudFront-CDN)
 - [Automated Continuous Integration: From GitHub Commit to Running Test Service](https://github.com/huit/cloud-boot-camp/wiki/Automated-Continuous-Integration)
-- [[Building a Control Plane for a Dynamic Site]]
 - [[Comprehensive Monitoring, Instrumentation and Logging for a Dynamic Site]]
 - [[Continual Resiliency Testing]]
-
+- [[Building a Control Plane for a Dynamic Site]]
+- 
 
 # Resources
 
